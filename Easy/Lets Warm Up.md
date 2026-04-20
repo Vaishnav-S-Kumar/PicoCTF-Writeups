@@ -6,4 +6,4 @@ If I told you a word started with 0x70 in hexadecimal, what would it start with 
 
 ## Solution
 
-Use CyberChef [https://cyberchef.io], use the "**From Hex**" option to convert the hexadecimal to ASCII
+Use ![CyberChef](https://cyberchef.io), use the "**From Hex**" option to convert the hexadecimal to ASCII
