@@ -56,4 +56,7 @@ Each challenge is stored based on its difficulty and category. The repositery is
 │   ├── Binary Exploitation/
 │   └── Blockchain/
 ```
-Each category folder contains individual challenge directory or writeups. 
+## Disclaimer
+
+Writeup of challenges with similar model of obtaining the flag is not documented !!!
+
