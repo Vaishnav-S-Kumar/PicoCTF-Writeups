@@ -16,18 +16,18 @@ Each challenge is documented in one of the following ways:
 
 1. Single Markdown File
 If the challenge does not include any downloadable files or artifacts, the writeup is stored directly as:
-
+```
 challenge_name.md
-
+```
 2. Directory with Files + Writeup
 If the challenge includes files/artifacts (e.g., binaries, PCAPs, images), it is stored as:
-
+```
 challenge_name/
 ├── <provided_files>
 └── challenge_name.md
-
+```
 Each challenge is stored based on its difficulty and category. The repositery is organized in the following hierarchy:
-
+```
 .
 ├── Easy/
 │   ├── Web Exploitation/
@@ -55,5 +55,5 @@ Each challenge is stored based on its difficulty and category. The repositery is
 │   ├── General Skills/
 │   ├── Binary Exploitation/
 │   └── Blockchain/
-
+```
 Each category folder contains individual challenge directory or writeups. 
