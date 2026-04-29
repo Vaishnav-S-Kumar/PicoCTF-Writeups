@@ -6,9 +6,9 @@ This repository contains categorized writeups for various PicoCTF challenges, or
 
 This repository serves as:
 
-A personal knowledge base
-A reference for CTF learners
-A structured archive of solved PicoCTF challenges
+- A personal knowledge base
+- A reference for CTF learners
+- A structured archive of solved PicoCTF challenges
 
 ## Repositery Structure
 
@@ -28,11 +28,32 @@ challenge_name/
 
 Each challenge is stored based on its difficulty and category. The repositery is organized in the following hierarchy:
 
-difficulty/
+.
+├── Easy/
+│   ├── Web Exploitation/
+│   ├── Cryptography/
+│   ├── Reverse Engineering/
+│   ├── Forensics/
+│   ├── General Skills/
+│   ├── Binary Exploitation/
+│   └── Blockchain/
 │
-├── category/
-│   ├── challenge_name.md
-│   └── challenge_name/
-│       ├── files...
-│       └── challenge_name.md
+├── Medium/
+│   ├── Web Exploitation/
+│   ├── Cryptography/
+│   ├── Reverse Engineering/
+│   ├── Forensics/
+│   ├── General Skills/
+│   ├── Binary Exploitation/
+│   └── Blockchain/
+│
+├── Hard/
+│   ├── Web Exploitation/
+│   ├── Cryptography/
+│   ├── Reverse Engineering/
+│   ├── Forensics/
+│   ├── General Skills/
+│   ├── Binary Exploitation/
+│   └── Blockchain/
 
+Each category folder contains individual challenge directory or writeups. 
