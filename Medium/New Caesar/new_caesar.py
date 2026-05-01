@@ -16,8 +16,8 @@ def shift(c, k):
 	t2 = ord(k) - LOWERCASE_OFFSET
 	return ALPHABET[(t1 + t2) % len(ALPHABET)]
 
-flag = "redacted"
-key = "redacted"
+flag = "picoCTF{snfwijf}"
+key = "k"
 assert all([k in ALPHABET for k in key])
 assert len(key) == 1
 
