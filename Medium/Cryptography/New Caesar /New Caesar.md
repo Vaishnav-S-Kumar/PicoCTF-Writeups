@@ -48,7 +48,7 @@ The ord function returns the unicode (ASCII) integer value of the character. Opp
 >>>chr(97)
 'a'
 ```
-### b16_encode(plain)
+#### b16_encode(plain)
 
 An user defined function is used for custom base16 encoding, here character limit is the first 16 letters of the alphabet. The first statement in the for loop ```binary = "{0:08b}".format(ord(c))``` converts the ASCII value to binary. 
 
